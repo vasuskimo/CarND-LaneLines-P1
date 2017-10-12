@@ -27,10 +27,11 @@ This resulted in the following:
 <img src="https://raw.githubusercontent.com/vasuskimo/CarND-LaneLines-P1/master/test_images/solidWhiteCurve_after.jpg" width="480"/>
 
 <br/>
-<video width="320" height="240" controls>
-  <source src="https://github.com/vasuskimo/CarND-LaneLines-P1/blob/master/test_videos_output/solidWhiteRight.mp4" type="video/mp4">
-</video>
 
+ [Solid White Line on the Right Video] ("https://github.com/vasuskimo/CarND-LaneLines-P1/blob/master/test_videos_output/solidWhiteRight.mp4") 
+ [Solid Yellow Line on the Left Video] ("https://github.com/vasuskimo/CarND-LaneLines-P1/blob/master/test_videos_output/solidYellowLeft.mp4")
+ <br/>
+ 
 ### 2. Potential shortcomings with the current pipeline
 
 
