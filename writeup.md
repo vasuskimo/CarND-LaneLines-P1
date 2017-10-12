@@ -18,12 +18,12 @@ The pipeline comprises of the following:
 
 
 This resulted in the following:
-<img src="https://raw.githubusercontent.com/vasuskimo/CarND-LaneLines-P1/master/test_images/whiteCarLaneSwitch_after.jpg" width="480" alt="Combined Image" />
-<img src="https://raw.githubusercontent.com/vasuskimo/CarND-LaneLines-P1/master/test_images/solidYellowLeft_after.jpg" width="480" alt="Combined Image" />
-<img src="https://raw.githubusercontent.com/vasuskimo/CarND-LaneLines-P1/master/test_images/solidYellowCurve_after.jpg" width="480" alt="Combined Image" />
-<img src="https://raw.githubusercontent.com/vasuskimo/CarND-LaneLines-P1/master/test_images/test_images/solidYellowCurve2_after.jpg" width="480" alt="Combined Image" />
-<img src="https://raw.githubusercontent.com/vasuskimo/CarND-LaneLines-P1/master/test_images/test_images/solidWhiteRight_after.jpg" width="480" alt="Combined Image" />
-<img src="https://raw.githubusercontent.com/vasuskimo/CarND-LaneLines-P1/master/test_images/test_images/solidWhiteCurve_after.jpg" width="480" alt="Combined Image" />
+<img src="https://raw.githubusercontent.com/vasuskimo/CarND-LaneLines-P1/master/test_images/whiteCarLaneSwitch_after.jpg" width="480" />
+<img src="https://raw.githubusercontent.com/vasuskimo/CarND-LaneLines-P1/master/test_images/solidYellowLeft_after.jpg" width="480" />
+<img src="https://raw.githubusercontent.com/vasuskimo/CarND-LaneLines-P1/master/test_images/solidYellowCurve_after.jpg" width="480" />
+<img src="https://raw.githubusercontent.com/vasuskimo/CarND-LaneLines-P1/master/test_images/test_images/solidYellowCurve2_after.jpg" width="480/>
+<img src="https://raw.githubusercontent.com/vasuskimo/CarND-LaneLines-P1/master/test_images/test_images/solidWhiteRight_after.jpg" width="480"/>
+<img src="https://raw.githubusercontent.com/vasuskimo/CarND-LaneLines-P1/master/test_images/test_images/solidWhiteCurve_after.jpg" width="480"/>
 
 ### 2. Potential shortcomings with the current pipeline
 
