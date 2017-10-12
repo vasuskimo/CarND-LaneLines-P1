@@ -2,12 +2,12 @@
 
 [//]: # (Image References)
 
-[image1]: ./test_images/whiteCarLaneSwitch_after.jpg "Lane Switch"
-[image2]: ./test_images/solidYellowLeft_after.jpg "Solid Yellow Left"
-[image3]: ./test_images/solidYellowCurve_after.jpg "Solid Yellow Curve"
-[image1]: ./test_images/solidYellowCurve2_after.jpg "Solid Yellow Curve 2"
-[image1]: ./test_images/solidWhiteRight_after.jpg "Solid White Line"
-[image1]: ./test_images/solidWhiteCurve_after.jpg "Solid White Curve"
+[image1]: https://raw.githubusercontent.com/vasuskimo/CarND-LaneLines-P1/master/test_images/whiteCarLaneSwitch_after.jpg "Lane Switch"
+[image2]: https://raw.githubusercontent.com/vasuskimo/CarND-LaneLines-P1/master/test_images/solidYellowLeft_after.jpg "Solid Yellow Left"
+[image3]: https://raw.githubusercontent.com/vasuskimo/CarND-LaneLines-P1/master/test_images/solidYellowCurve_after.jpg "Solid Yellow Curve"
+[image1]: https://raw.githubusercontent.com/vasuskimo/CarND-LaneLines-P1/master/test_images/test_images/solidYellowCurve2_after.jpg "Solid Yellow Curve 2"
+[image1]: https://raw.githubusercontent.com/vasuskimo/CarND-LaneLines-P1/master/test_images/test_images/solidWhiteRight_after.jpg "Solid White Line"
+[image1]: https://raw.githubusercontent.com/vasuskimo/CarND-LaneLines-P1/master/test_images/test_images/solidWhiteCurve_after.jpg "Solid White Curve"
 ---
 
 ### Reflection
