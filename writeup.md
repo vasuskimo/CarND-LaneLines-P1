@@ -22,7 +22,7 @@ This resulted in the following:
 <img src="https://raw.githubusercontent.com/vasuskimo/CarND-LaneLines-P1/master/test_images/whiteCarLaneSwitch_after.jpg" width="480" />
 <img src="https://raw.githubusercontent.com/vasuskimo/CarND-LaneLines-P1/master/test_images/solidYellowLeft_after.jpg" width="480" />
 <img src="https://raw.githubusercontent.com/vasuskimo/CarND-LaneLines-P1/master/test_images/solidYellowCurve_after.jpg" width="480" />
-<img src="https://raw.githubusercontent.com/vasuskimo/CarND-LaneLines-P1/master/test_images/solidYellowCurve2_after.jpg" width="480/>
+<img src="https://raw.githubusercontent.com/vasuskimo/CarND-LaneLines-P1/master/test_images/solidYellowCurve2_after.jpg" width="480"/>
 <img src="https://raw.githubusercontent.com/vasuskimo/CarND-LaneLines-P1/master/test_images/solidWhiteRight_after.jpg" width="480"/>
 <img src="https://raw.githubusercontent.com/vasuskimo/CarND-LaneLines-P1/master/test_images/solidWhiteCurve_after.jpg" width="480"/>
 
